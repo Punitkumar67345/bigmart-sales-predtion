@@ -4,9 +4,9 @@ numpy
 fastapi
 uvicorn
 scikit-learn
+xgboost
 pymongo
 requests
 plotly
-
 
 #pip install -r requirements.txt
