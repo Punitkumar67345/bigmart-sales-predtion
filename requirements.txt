@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+fastapi
+uvicorn
+scikit-learn
+pymongo
+requests
+plotly
+
+
+#pip install -r requirements.txt
