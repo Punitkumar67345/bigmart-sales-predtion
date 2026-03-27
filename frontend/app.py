@@ -119,7 +119,6 @@ with tab1:
                     </div>
                     """, unsafe_allow_html=True)
 
-                st.balloons()
             except Exception as e:
                 st.error("⚠️ Backend Error! Ensure uvicorn is running.")
 
